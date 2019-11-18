@@ -4,6 +4,8 @@ A machine learning model was built using the open-source machine learning librar
 
 The reason I've chosen to use h2o compared to other machine learning tools is due to its speed and scalability. H2o is designed to produce much faster performance. The main benefit I've found in using h2o is its ability to perform parameter tuning and variable importance, this has saved me a lot of time in finding the best parameters.
 
+The results have shown 100% accuracy rate but I believe I've got these results due to the dataset being imbalanced. In future I will aim to use imbalanced techniques on this specific problem.
+
 In my code, I have placed comments to allow you to replicate the steps I have taken quickly. 
 
 Thank you for taking the time in viewing my project. 
